@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Info.JoshSpence.Api.Email.props" />
+</Project>
